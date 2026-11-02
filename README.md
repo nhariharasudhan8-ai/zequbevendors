@@ -1,1 +1,1 @@
-# zequbevendors
+# ZeQube Vendors
